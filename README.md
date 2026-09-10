@@ -1,1 +1,4 @@
-# MACFE-Firmware-2026
+Compile and run:
+
+g++ hello.cpp -o hello
+./hello
